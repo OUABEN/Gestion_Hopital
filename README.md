@@ -32,19 +32,7 @@ Un système complet de gestion hospitalière développé avec **PHP**, **MySQL**
 - Vue d’ensemble dynamique (cartes, tableaux)
 - Statistiques clés en temps réel
 - Vue spécifique pour les médecins
-
----
-
-## 🗂️ Structure des fichiers
-
-/gestion_hopital
-├── config.php # Connexion à la base de données
-├── dashboard.php # Page principale avec statistiques
-├── patients.php # Gestion des patients
-├── chambres.php # Gestion des chambres
-├── produits.php # Produits médicaux
-├── consultations.php # Consultations médicales
-├── rapport.php # Rapports d'activités                                                                                                                                       
+                                                                                                                                 
 ---
 
 ## 🧠 Technologies utilisées
